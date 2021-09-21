@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.4.19)  18 JUN 2021 20:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.4.19)  21 SEP 2021 15:46
 entering extended mode
 **"./d-order sums.tex"
 (d-order sums.tex
@@ -831,7 +831,7 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Here is how much of TeX's memory you used:
  6664 strings out of 479334
  94446 string characters out of 2857084
- 455152 words of memory out of 3000000
+ 455179 words of memory out of 3000000
  23996 multiletter control sequences out of 15000+200000
  419151 words of font info for 69 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -851,9 +851,9 @@ AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users
 /Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
 <C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cm
 sy7.pfb>
-Output written on "d-order sums.pdf" (6 pages, 147563 bytes).
+Output written on "d-order sums.pdf" (6 pages, 148266 bytes).
 PDF statistics:
- 239 PDF objects out of 1000 (max. 8388607)
+ 241 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
